@@ -1,0 +1,21 @@
+@charset "utf-8";
+body{ background-color: grey}
+h1 {
+	text-align: center;
+	background-color: blue;
+	text-decoration-color: white;
+	color: #FFFFFF;
+	padding-right: ;
+}
+h2 {
+	text-align: center;
+	background-color: white;
+	margin-right: 600px;
+	margin-left: 600px;
+}
+
+h3 {
+	color: #FF0004;
+	background-color: white;
+	margin-right: 1150px;
+}

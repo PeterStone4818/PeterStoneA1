@@ -1,0 +1,32 @@
+@charset "utf-8";
+.subscribForm #time {
+	border-radius: 12px;
+	height: 30px;
+}
+.subscribForm #compedtitionday {
+	height: 30px;
+	border-radius: 12px;
+}
+.subscribForm #email {
+	height: 30px;
+	width: 250px;
+	border-radius: 12px;
+}
+.subscribForm #fname {
+	border-radius: 12px;
+	height: 30px;
+}
+.subscribForm #lname {
+303	height: 0px;
+	height: 30px;
+	border-radius: 12px;
+}
+.subscribForm h1 {
+	text-align: center;
+	color: red
+}
+.subscribForm #submit { color: darkgoldenrod
+}
+
+h3{ color: blue
+}
